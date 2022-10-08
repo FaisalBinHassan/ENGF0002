@@ -11,6 +11,13 @@
 # 2 - decrypt the text with trying all keys ( from 1 to 25 )
 # 3 - Once all 25 decrypted text has been revealed, there will be a question for the user to choose the most english texted from all the options
 
+# ---------------
+
+# Some help used : 
+# https://www.youtube.com/watch?v=Kn5pBG8RAUs
+# https://stackoverflow.com/questions/40975199/caesar-cipher-without-knowing-the-key
+# https://www.youtube.com/watch?v=UkTHgQ_qwJk
+# https://www.geeksforgeeks.org/caesar-cipher-in-cryptography/
 
 
 import string
