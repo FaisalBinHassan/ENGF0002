@@ -6,7 +6,9 @@
 # 3- then increment square points
 # 4- go over the +(numOfDarts_Thrown)
 # 5- with the formal equation of [ pie / 4 = Nhits(circle) / Ntotalhits(square) ] == [ pie = 4 * ( Nhits / Ntotalhits) ]
-
+# Some help used : 
+# https://byjus.com/maths/value-of-pi/#:~:text=What%20is%20the%20formula%20for,as%20%CF%80%20%3D%20Circumference%2F%20Diameter.   
+# https://www.geeksforgeeks.org/estimating-value-pi-using-monte-carlo/
 # ----------------------------------------------------------------
 
 import random
